@@ -156,3 +156,32 @@ header nav .btn-primary {
     line-height: 150%;
 }
 
+/* Style Section second area */
+
+.s-card-featured .second-area {
+    margin-top: 11.2rem;
+}
+
+.s-card-featured .second-area .top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6.4rem;
+}
+
+.s-card-featured .second-area .all-imgs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3.2rem;
+}
+
+.s-card-featured .second-area .all-imgs .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 17rem;
+    height: 11rem;
+    background-color: var(--gray-colors-200);
+    
+}
+
